@@ -7,5 +7,6 @@ public class FirstTest {
     public  void test(){
         int i=1;
         i+=5;
+        System.out.println(i);
     }
 }
